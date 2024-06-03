@@ -1,0 +1,26 @@
+{
+    "odoo_db4": {
+        "url": "http://192.168.1.104:8069/jsonrpc",
+        "db": "OdooTest",
+        "username": "zulfafani@gmail.com",
+        "password": "gAAAAABmRHzNIM3yBRwGYw-AiQ_5AcAYQ1mmRiC0N5IeLVDAqypfNMh07HsVp2xeTUQhFWVHpfcmHvGNmr7xtksY_b2lUsr0fg=="
+    },
+    "odoo_db3": {
+        "url": "http://192.168.1.104:8060/jsonrpc",
+        "db": "OdoDB",
+        "username": "admin",
+        "password": "gAAAAABmRHzNHQCbLcZii4LX4qZsLildRg2SeWgh6dnE1JiDRmemFjKYOSbBqqGboSegpR_pIJ-95218Oy183A9wfVtKhKsOCw=="
+    },
+    "odoo_db2": {
+        "url": "http://192.168.1.104:8069/jsonrpc",
+        "db": "OdooSS1",
+        "username": "zulfafani@gmail.com",
+        "password": "gAAAAABmRHzNIM3yBRwGYw-AiQ_5AcAYQ1mmRiC0N5IeLVDAqypfNMh07HsVp2xeTUQhFWVHpfcmHvGNmr7xtksY_b2lUsr0fg=="
+    },
+    "odoo_db1": {
+        "url": "http://192.168.1.188:8061/jsonrpc",
+        "db": "devtest",
+        "username": "admin",
+        "password": "gAAAAABmXX6WOk94ADfdwGxsLcJ9KLqv1SbrUw49ZaYCztE9vxmycIMLBl3s1SckhVag6hbLuCLp-FxLjayenHA6JAln_qJILQ=="
+    }
+}
